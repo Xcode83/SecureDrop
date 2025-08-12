@@ -1,4 +1,4 @@
-# 🛡️ SecureDrop 🔗
+#  SecureDrop 
 
 <div align="center">
  <img width="1920" height="933" alt="Screenshot From 2025-08-13 02-50-06" src="https://github.com/user-attachments/assets/92a32fba-e1e1-4374-99f1-14d6310fe290" />
