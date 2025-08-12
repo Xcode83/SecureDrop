@@ -1,7 +1,8 @@
 # 🛡️ SecureDrop 🔗
 
 <div align="center">
-  <img width="1920" height="1080" alt="Screenshot From 2025-08-13 02-50-06" src="https://github.com/user-attachments/assets/264b145a-f6b4-4afe-9da8-54d3ee0a2c76" />
+ <img width="1920" height="933" alt="Screenshot From 2025-08-13 02-50-06" src="https://github.com/user-attachments/assets/92a32fba-e1e1-4374-99f1-14d6310fe290" />
+
 
 </div>
 
@@ -41,29 +42,14 @@ SecureDrop allows you to transfer files of any size directly from your device to
 A glimpse into the SecureDrop experience. The entire interface was designed to be clean, intuitive, and visually stunning.
 
 
-1. <img width="1920" height="1080" alt="Screenshot From 2025-08-13 02-50-20" src="https://github.com/user-attachments/assets/290135d9-644d-4ba5-9b1d-e6cfeb2ac491" />
+1. <img width="1920" height="941" alt="Screenshot From 2025-08-13 02-50-20" src="https://github.com/user-attachments/assets/0821bac3-1eda-4d88-98fd-11b02a398c91" />
+
 *
-2. <img width="1920" height="1080" alt="Screenshot From 2025-08-13 02-50-33" src="https://github.com/user-attachments/assets/8c4166ea-1b32-4ba9-a0aa-e7d7973b5fa2" />
+2. <img width="1920" height="934" alt="Screenshot From 2025-08-13 02-50-33" src="https://github.com/user-attachments/assets/543fe2b1-fff2-4163-af86-60c57287ef85" />
+
 *
 
-<table>
-  <tr>
-    <td align="center"><strong>Upload Page (Initial State)</strong></td>
-    <td align="center"><strong>File Selected & QR Code Generated</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://path-to-your/screenshot-upload-initial.png" alt="Initial Upload UI"></td>
-    <td><img src="https://path-to-your/screenshot-upload-qr.png" alt="QR Code UI"></td>
-  </tr>
-   <tr>
-    <td align="center"><strong>Receiving a File</strong></td>
-    <td align="center"><strong>Transfer Complete</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://path-to-your/screenshot-receive-loading.png" alt="Receiving a file"></td>
-    <td><img src="https://path-to-your/screenshot-receive-complete.png" alt="Transfer complete"></td>
-  </tr>
-</table>
+
 
 ---
 
