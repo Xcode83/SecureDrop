@@ -82,8 +82,7 @@ This project was built using a curated set of modern, high-performance tools to 
 
 ## 📄 Project Status
 
-This repository serves as a **showcase and portfolio piece** for the SecureDrop project. It demonstrates my ability to design, build, and debug a complex, modern web application.
-
+This repository serves as a **showcase and portfolio piece** for the SecureDrop project. 
 The source code for this project is currently private.
 
 ---
